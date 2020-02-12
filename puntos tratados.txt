@@ -1,0 +1,4 @@
+rutas
+animaciones  > 50
+icono > 
+Agregar bootstrap
